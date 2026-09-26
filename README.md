@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Ertejasjain/DSA-tracking/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0119-pascals-triangle-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
