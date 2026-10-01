@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ertejasjain/DSA-tracking/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ertejasjain/DSA-tracking/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ertejasjain/DSA-tracking/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ertejasjain/DSA-tracking/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0119-pascals-triangle-ii) |
 ## Quicksort
