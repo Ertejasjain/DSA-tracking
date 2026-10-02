@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Ertejasjain/DSA-tracking/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Ertejasjain/DSA-tracking/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ertejasjain/DSA-tracking/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ertejasjain/DSA-tracking/tree/master/0283-move-zeroes) |
