@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ertejasjain/DSA-tracking/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ertejasjain/DSA-tracking/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ertejasjain/DSA-tracking/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Ertejasjain/DSA-tracking/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ertejasjain/DSA-tracking/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ertejasjain/DSA-tracking/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ertejasjain/DSA-tracking/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ertejasjain/DSA-tracking/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Ertejasjain/DSA-tracking/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ertejasjain/DSA-tracking/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0229-majority-element-ii) |
 ## Counting
