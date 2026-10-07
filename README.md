@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ertejasjain/DSA-tracking/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ertejasjain/DSA-tracking/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0119-pascals-triangle-ii) |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ertejasjain/DSA-tracking/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Ertejasjain/DSA-tracking/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Ertejasjain/DSA-tracking/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
