@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ertejasjain/DSA-tracking/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Ertejasjain/DSA-tracking/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Ertejasjain/DSA-tracking/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ertejasjain/DSA-tracking/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ertejasjain/DSA-tracking/tree/master/0169-majority-element) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Ertejasjain/DSA-tracking/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Ertejasjain/DSA-tracking/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Ertejasjain/DSA-tracking/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Ertejasjain/DSA-tracking/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
