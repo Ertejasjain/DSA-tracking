@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ertejasjain/DSA-tracking/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ertejasjain/DSA-tracking/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Ertejasjain/DSA-tracking/tree/master/0493-reverse-pairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ertejasjain/DSA-tracking/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Ertejasjain/DSA-tracking/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ertejasjain/DSA-tracking/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ertejasjain/DSA-tracking/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ertejasjain/DSA-tracking/tree/master/0023-merge-k-sorted-lists) |
 ## Stack
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ertejasjain/DSA-tracking/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ertejasjain/DSA-tracking/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ertejasjain/DSA-tracking/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
