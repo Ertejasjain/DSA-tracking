@@ -52,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ertejasjain/DSA-tracking/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ertejasjain/DSA-tracking/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Ertejasjain/DSA-tracking/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ertejasjain/DSA-tracking/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Ertejasjain/DSA-tracking/tree/master/0136-single-number) |
 ## Hash Table
 |  |
