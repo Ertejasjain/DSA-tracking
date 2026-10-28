@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ertejasjain/DSA-tracking/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ertejasjain/DSA-tracking/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Ertejasjain/DSA-tracking/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ertejasjain/DSA-tracking/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ertejasjain/DSA-tracking/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ertejasjain/DSA-tracking/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Ertejasjain/DSA-tracking/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Ertejasjain/DSA-tracking/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ertejasjain/DSA-tracking/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ertejasjain/DSA-tracking/tree/master/0169-majority-element) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Ertejasjain/DSA-tracking/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ertejasjain/DSA-tracking/tree/master/0073-set-matrix-zeroes) |
