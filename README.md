@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Ertejasjain/DSA-tracking/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ertejasjain/DSA-tracking/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Ertejasjain/DSA-tracking/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ertejasjain/DSA-tracking/tree/master/0054-spiral-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ertejasjain/DSA-tracking/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Ertejasjain/DSA-tracking/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ertejasjain/DSA-tracking/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ertejasjain/DSA-tracking/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ertejasjain/DSA-tracking/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0119-pascals-triangle-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ertejasjain/DSA-tracking/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ertejasjain/DSA-tracking/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Ertejasjain/DSA-tracking/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
