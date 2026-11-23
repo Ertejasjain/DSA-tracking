@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Ertejasjain/DSA-tracking/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Ertejasjain/DSA-tracking/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ertejasjain/DSA-tracking/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Ertejasjain/DSA-tracking/tree/master/0071-simplify-path) |
 ## Recursion
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ertejasjain/DSA-tracking/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ertejasjain/DSA-tracking/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ertejasjain/DSA-tracking/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
